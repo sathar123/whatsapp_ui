@@ -14,10 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![whatsappchat](https://user-images.githubusercontent.com/56146545/200375936-d5bd74e1-5d1d-449a-9b19-b4e0bea3dbb7.png)
-![whpcommunty1](https://user-images.githubusercontent.com/56146545/200376045-a8a070da-395c-47d7-8ff4-a08f50514bca.png)
-![whpstatus](https://user-images.githubusercontent.com/56146545/200376077-887ca4f1-29df-42a9-b17a-c118c7c19cfe.png)
-![whpcall](https://user-images.githubusercontent.com/56146545/200376113-5efd1bbb-c64b-4681-9dd9-a714f45f1d02.png)
-Use Sliver Appbar:
-![whpsliver](https://user-images.githubusercontent.com/56146545/200376135-c539dfe1-d3d3-4a69-8287-70e9a0060705.png)
-![whppopup](https://user-images.githubusercontent.com/56146545/200376303-4e1ee7d6-afea-4fb6-89b3-f0d6b41d6341.png)
+![whpchat](https://user-images.githubusercontent.com/56146545/200612348-ab396d68-2ef1-47ab-bde9-a5e215e4c8d1.png)
+![whpcommunity](https://user-images.githubusercontent.com/56146545/200612367-2c4397b7-28dc-42ee-85a2-f0ecc1980ded.png)
+![whpstatus](https://user-images.githubusercontent.com/56146545/200612391-92dd50de-354e-4d76-9aae-0cf6e2565bf5.png)
+![whpcall](https://user-images.githubusercontent.com/56146545/200612412-0b6bf128-21ec-4e29-b1f7-6122993dfaf0.png)
+![whp slip appbar](https://user-images.githubusercontent.com/56146545/200612443-fb57c3b7-0ce8-48f2-ac70-550c9dc0309c.png)
