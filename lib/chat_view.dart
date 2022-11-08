@@ -71,6 +71,7 @@ class Chat_view extends StatelessWidget {
               }
               )
       ),
+
     );
   }
 }
